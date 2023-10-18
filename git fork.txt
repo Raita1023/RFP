@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Transport in Smart Country System</title>
+</head>
+<body>
+    <header>
+        <h1>Transport in Smart Country System</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="hero">
+        <h2>Welcome to Our Smart Transportation System</h2>
+        <p>Using technology to create efficient and sustainable transportation solutions.</p>
+    </section>
+    <section class="features">
+        <div class="feature">
+            <h3>Real-time Traffic Monitoring</h3>
+            <p>Utilizing sensors to monitor traffic flow and provide real-time updates to drivers.</p>
+        </div>
+        <div class="feature">
+            <h3>Public Transportation Options</h3>
+            <p>Easy access to ride-sharing, carpooling, and efficient public transportation services.</p>
+        </div>
+        <div class="feature">
+            <h3>Promoting Sustainability</h3>
+            <p>Encouraging the use of bicycles and electric vehicles for a greener future.</p>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2023 Transport in Smart Country System. All rights reserved.</p>
+    </footer>
+</body>
+</html>
